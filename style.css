@@ -1,0 +1,24 @@
+/*@farabi*/
+
+ .container{
+   margin-top:30px;
+}
+
+.display-4{
+	color: #00004d;
+    font-family:  serif;
+}
+
+.lead{
+	font-family: 'Gentium Book Basic', serif;
+}
+
+.card-title{
+    color: #000066;
+	font-family:  serif;
+}
+
+.card-header{
+	font-family:  serif;
+}
+
